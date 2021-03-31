@@ -10,6 +10,7 @@ function App() {
         <p>Computer Systems Engineer</p>
         <p>Experience using programming languages C, Java, and Javascript</p>
         <p>Cisco Certified Network Associate Routing and Switching</p>
+        <p>CICD Homework 1</p>
       </header>
     </div>
   );
